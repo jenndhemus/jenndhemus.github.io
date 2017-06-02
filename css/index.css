@@ -1,0 +1,54 @@
+body{
+background-color: #CBF6FF;
+}
+#navbar{
+     background-color: black;
+  
+     width: 100%;
+     top: 0px;
+  
+    
+
+}
+
+.nav li{
+    width: 33%;
+    flex-grow: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 19px;
+    display: block;
+    
+	}
+.navbar-nav{
+width:100%;
+}
+
+
+
+.navbar-inverse {
+     background: black;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #303F9F;
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color: #fff;
+}
