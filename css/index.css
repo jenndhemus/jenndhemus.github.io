@@ -52,3 +52,49 @@ width:100%;
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color: #fff;
 }
+
+.container-div {
+  margin-left: 10%;
+  margin-right: 10%;
+ }
+
+header {
+  margin-top: 80px;
+  width: 100%;
+  background-color:  #853962;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Montserrat", sans-serif;
+ }
+
+.image-top{
+display: block;
+
+}
+img{
+max-width:100%;
+max-height:100%;
+}
+
+#biography{
+    display:none;
+}
+
+
+
+#header:hover #biography {
+    display:block;
+}
+
+#biography:visited{
+display:block;
+}
+
