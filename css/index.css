@@ -104,10 +104,12 @@ padding: 20px 0px 20px 0px;
 	
 }
 .project-item h1{
-	color: grey;
+	color: black;
 }
 
 .text-container{
+color: grey;
+
 padding-top: 65px;	
 }
 .text-container p {
