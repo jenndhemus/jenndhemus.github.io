@@ -107,3 +107,12 @@ padding: 20px 0px 20px 0px;
 	color: grey;
 }
 
+.text-container{
+padding-top: 10px;	
+}
+.text-container p {
+display: block;
+text-align: left;
+
+}
+
