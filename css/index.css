@@ -98,6 +98,11 @@ max-height:100%;
 display:block;
 }
 
+.project-item{
+padding: 20px 0px 20px 0px;
+	
+	
+}
 .project-item h1{
 	color: #fff;
 }
