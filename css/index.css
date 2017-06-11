@@ -87,15 +87,6 @@ max-width:100%;
 max-height:100%;
 }
 
-#biography{
-    display:none;
-}
-
-
-
-#header:hover #biography {
-    display:block;
-}
 
 h1{
 font-weight: bold;
@@ -104,9 +95,7 @@ text-align: center;
 	
 }
 
-#biography:visited{
-display:block;
-}
+
 
 .project-item{
 font-family: 'Open Sans', sans-serif;
